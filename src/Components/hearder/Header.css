@@ -1,0 +1,7 @@
+h1{
+  color: rgb(1, 5, 8);
+  position: absolute;
+  left: 2rem;
+  display: flex;
+  top: 1rem;
+}
